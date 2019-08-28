@@ -15,6 +15,7 @@ import org.testng.annotations.Test;
 
 public class Chkboxscript 
 {
+	//modifying file.. by adding this file
 	WebDriver driver;
 	
 		@Test
